@@ -1,7 +1,7 @@
 {
   "span": [
   { 
-  "time": "3months",
+ "3months": {
   "total_earning": "12,875",
   "last_year_earning": "21,505",
   "hike": 2,
@@ -19,6 +19,7 @@
   "trend_goods": "204",
   "shopping_views": "65,540",
   "store_dynamics": "324"
+ }
 },
 {
   "time": "1month",
