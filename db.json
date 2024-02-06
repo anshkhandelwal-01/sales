@@ -1,5 +1,7 @@
-[
-  "3months":{
+{
+  "span": [
+  { 
+  "time": "3months",
   "total_earning": "12,875",
   "last_year_earning": "21,505",
   "hike": 2,
@@ -18,7 +20,8 @@
   "shopping_views": "65,540",
   "store_dynamics": "324"
 },
-"1month":{
+{
+  "time": "1month",
   "total_earning": "5,372",
   "last_year_earning": "14,678",
   "hike": 2,
@@ -37,7 +40,8 @@
   "shopping_views": "45,657",
   "store_dynamics": "247"
 },
-"1week":{
+{
+  "time": "1week",
   "total_earning": "3,358",
   "last_year_earning": "7,653",
   "hike": 3,
@@ -56,7 +60,8 @@
   "shopping_views": "13,452",
   "store_dynamics": "184"
 },
-"1year":{
+{
+  "time": "1year",
   "total_earning": "54,384",
   "last_year_earning": "92,342",
   "hike": 5,
@@ -75,7 +80,8 @@
   "shopping_views": "45,25,623",
   "store_dynamics": "5226"
 },
-"all":{
+{
+  "time": "all",
   "total_earning": "90,34,22",
   "last_year_earning": "34,52,352",
   "hike": 7,
@@ -95,3 +101,4 @@
   "store_dynamics": "9358"
 }
 ]
+}
